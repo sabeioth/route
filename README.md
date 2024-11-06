@@ -38,11 +38,11 @@ make
 ```ros
 /system script
 add dont-require-permissions=no name=cn owner=admin policy=ftp,reboot,read,write,policy,test,password,sniff,sensitive,romon source="
-/tool fetch url=https://raw.githubusercontent.com/ruijzhan/chnroute/master/CN.rsc
+/tool fetch url=https://raw.gitmirror.com/ruijzhan/chnroute/master/CN.rsc
 import file-name=CN.rsc
 file remove CN.rsc
 
-/tool fetch url=https://raw.githubusercontent.com/ruijzhan/chnroute/master/LAN.rsc
+/tool fetch url=https://raw.gitmirror.com/ruijzhan/chnroute/master/LAN.rsc
 import file-name=LAN.rsc
 file remove LAN.rsc"
 ```

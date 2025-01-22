@@ -1972,7 +1972,7 @@
     "freexinwen.com";
     "freeyellow.com";
     "freeyoutubeproxy.net";
-    "friendfeed-media.com";
+    "freezhihu.org";
     "friendfeed.com";
     "friends-of-tibet.org";
     "friendsoftibet.org";
@@ -3144,6 +3144,7 @@
     "kichiku-doujinko.com";
     "kik.com";
     "killwall.com";
+    "kindle4rss.com";
     "kindleren.com";
     "kineox.free.fr";
     "kingdomsalvation.org";
@@ -3791,12 +3792,12 @@
     "news.ycombinator.com";
     "news100.com.tw";
     "newsancai.com";
+    "newsblur.com";
     "newschinacomment.org";
     "newscn.org";
     "newsdetox.ca";
     "newsdh.com";
     "newsmax.com";
-    "newspeak.cc";
     "newstamago.com";
     "newstapa.org";
     "newstarnet.com";
@@ -4367,6 +4368,7 @@
     "qi-gong.me";
     "qianbai.tw";
     "qiandao.today";
+    "qianglie.com";
     "qiangwaikan.com";
     "qiangyou.org";
     "qidian.ca";
@@ -4422,19 +4424,17 @@
     "rapidmoviez.com";
     "rapidvpn.com";
     "rarbgprx.org";
-    "raremovie.cc";
-    "raremovie.net";
     "rateyourmusic.com";
     "rationalwiki.org";
     "raw.githack.com";
     "rawgit.com";
     "rawgithub.com";
-    "razyboard.com";
     "rcam.target.com";
     "rcinet.ca";
     "rconversation.blogs.com";
     "rd.com";
     "rdio.com";
+    "reabble.com";
     "read01.com";
     "read100.com";
     "readingtimes.com.tw";
@@ -5775,6 +5775,7 @@
     "vpl.bibliocommons.com";
     "vpn.ac";
     "vpn.cmu.edu";
+    "vpn.net";
     "vpn.sv.cmu.edu";
     "vpn4all.com";
     "vpnaccount.org";
@@ -6147,6 +6148,7 @@
     "xn--czq75pvv1aj5c.org";
     "xn--i2ru8q2qg.com";
     "xn--ngstr-lra8j.com";
+    "xn--noss43i.com";
     "xn--oiq.cc";
     "xn--p8j9a0d9c9a.xn--q9jyb4c";
     "xnxx.com";
